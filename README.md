@@ -51,6 +51,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0560-subarray-sum-equals-k](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -170,6 +171,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
