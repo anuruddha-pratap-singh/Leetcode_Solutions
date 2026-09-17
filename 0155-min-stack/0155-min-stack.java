@@ -1,40 +1,41 @@
+// gap strategy
 class MinStack {
-    Stack<Integer> st ;
-    Stack<Integer> minst ;
-    
+    Stack<Long> st;
+    long min;
+
     public MinStack() {
         st = new Stack<>();
-        minst = new Stack<>();
+        min = 0;
     }
-    
-    public void push(int value) {
-        st.push(value);
-        if(minst.isEmpty() || value <= minst.peek()){
-            minst.push(value);
-        }else{
-            minst.push(minst.peek());
+
+    public void push(int val) {
+        long value = val;
+
+        if (st.isEmpty()) {
+            st.push(0L);
+            min = value;
+        } else {
+            st.push(value - min);
+            min = Math.min(min, value);
         }
     }
-    
     public void pop() {
-        st.pop();
-        minst.pop();
+        long rem = st.pop();
+        if (rem < 0) {
+            min = min - rem;
+        }
     }
-    
+
     public int top() {
-        return st.peek();
+        long rem = st.peek();
+
+        if (rem < 0) {
+            return (int)min;
+        }
+        return (int)(min + rem);
+        
     }
-    
     public int getMin() {
-        return minst.peek();
+        return (int) min;
     }
 }
-
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack obj = new MinStack();
- * obj.push(value);
- * obj.pop();
- * int param_3 = obj.top();
- * int param_4 = obj.getMin();
- */
