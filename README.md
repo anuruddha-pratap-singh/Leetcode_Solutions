@@ -285,6 +285,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0020-valid-parentheses](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2418-sort-the-people](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2418-sort-the-people) |
