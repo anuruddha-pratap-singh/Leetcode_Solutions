@@ -9,7 +9,7 @@ class Solution {
             }else{
                 int[] a = map.get(val);
                 int currentGap = i - a[1];
-                if(a[0] == 1){
+                if(a[0] == 1){ // if count is one , like we are checking for 2nd ele.
                     a[2] = currentGap;
                 }else if(currentGap != a[2]){
                     a[3] = 0;
