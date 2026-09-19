@@ -4,6 +4,7 @@ class Solution {
         for(int i=0 ; i<nums.length ; i++){
             int val = nums[i];
             if(!map.containsKey(val)){
+                // array format = {count , lastIndex , gap , valid};
                 map.put(val , new int[]{1 , i , -1 , 1});
             }else{
                 int[] a = map.get(val);
