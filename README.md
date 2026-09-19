@@ -75,6 +75,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [2161-partition-array-according-to-given-pivot](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2418-sort-the-people](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [1512-number-of-good-pairs](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [2418-sort-the-people](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Binary Search
 |  |
 | ------- |
