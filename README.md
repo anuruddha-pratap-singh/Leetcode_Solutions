@@ -104,6 +104,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Queue
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3516-find-closest-person](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Bit Manipulation
 |  |
 | ------- |
