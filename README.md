@@ -140,6 +140,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0036-valid-sudoku](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0242-valid-anagram) |
@@ -290,6 +291,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0013-roman-to-integer](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
@@ -403,5 +405,6 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
