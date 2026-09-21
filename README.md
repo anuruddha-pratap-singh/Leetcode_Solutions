@@ -128,6 +128,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0905-sort-array-by-parity](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -151,6 +152,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0496-next-greater-element-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0895-maximum-frequency-stack](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 | [1122-relative-sort-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
@@ -291,6 +293,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0242-valid-anagram](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2418-sort-the-people](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2418-sort-the-people) |
 ## Counting
@@ -397,4 +400,8 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
