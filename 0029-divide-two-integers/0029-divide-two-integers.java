@@ -3,20 +3,18 @@ class Solution {
         long a = Math.abs((long)dividend);
         long b = Math.abs((long)divisor);
         long q = 0;
-        while(a>=b){
-            long mul = b;
-            long count = 1;
-            while((mul << 1) <= a){
-                mul <<= 1;
-                count <<= 1;
+
+        for(int i=31 ; i>=0 ; i--){
+            if((b << i) <= a){
+                a -= (b << i);
+                q += (1L << i);
             }
-            a -= mul;
-            q += count;
         }
+
         if((dividend < 0)^(divisor < 0)){
             q = -q;
         }
-        
+
         if(q > Integer.MAX_VALUE){
             return Integer.MAX_VALUE;
         }
