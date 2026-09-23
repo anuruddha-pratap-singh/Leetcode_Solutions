@@ -206,6 +206,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | ------- |
 | [0007-reverse-integer](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0069-sqrtx) |
@@ -226,6 +227,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0260-single-number-iii) |
