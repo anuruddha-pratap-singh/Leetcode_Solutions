@@ -1,7 +1,7 @@
 class Solution {
     public int calculate(String s) {
-        Stack<Integer> nums = new Stack<>();
-        Stack<Character> ops = new Stack<>();
+        Deque<Integer> nums = new ArrayDeque<>();
+        Deque<Character> ops = new ArrayDeque<>();
 
         boolean check = true; // for -1 to 0 - 1; true means NEXT SHOULD BE A NUMBER
         int i = 0;
@@ -61,7 +61,7 @@ class Solution {
 
         return 0;
     }
-    private void operations(Stack<Integer> nums , Stack<Character> ops){
+    private void operations(Deque<Integer> nums , Deque<Character> ops){
         int b = nums.pop();
         int a = nums.pop();
 
