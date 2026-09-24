@@ -213,6 +213,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0070-climbing-stairs](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -248,6 +249,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0020-valid-parentheses](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0682-baseball-game) |
@@ -297,6 +299,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0020-valid-parentheses](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0224-basic-calculator](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -415,4 +418,8 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0076-minimum-window-substring](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
