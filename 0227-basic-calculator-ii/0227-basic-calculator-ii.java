@@ -10,6 +10,7 @@ class Solution {
                 i++;
                 continue;
             }
+            // construct the number
             if(Character.isDigit(ch)){
                 int num = 0;
                 while(i<s.length() && Character.isDigit(s.charAt(i))){
@@ -18,18 +19,8 @@ class Solution {
                 }
                 nums.push(num);
                 continue;
-            }
-            if(ch == '('){
-                ops.push(ch);
-                i++;
-            }else if(ch == ')'){
-                while(ops.peek() != '('){
-                    operations(nums , ops);
-                }
-                ops.pop();
-                i++;
             }else{
-                while(!ops.isEmpty() && ops.peek() != '(' && priority(ops.peek()) >= priority(ch)){
+                while(!ops.isEmpty() && priority(ops.peek()) >= priority(ch)){
                     operations(nums , ops);
                 }
 
@@ -43,7 +34,7 @@ class Solution {
             operations(nums , ops);
         }
 
-        return nums.pop();
+        return nums.pop(); // ans
     }
     private int priority(char op){
         if(op == '*' || op == '/') return 2;
