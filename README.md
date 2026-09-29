@@ -234,6 +234,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0191-number-of-1-bits](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0476-number-complement](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0476-number-complement) |
 ## Design
 |  |
 | ------- |
