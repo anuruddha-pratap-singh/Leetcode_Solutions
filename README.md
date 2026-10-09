@@ -48,6 +48,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0496-next-greater-element-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0554-brick-wall](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
@@ -153,6 +154,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0525-contiguous-array) |
+| [0554-brick-wall](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
