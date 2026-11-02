@@ -90,6 +90,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -123,6 +124,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0031-next-permutation](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
@@ -188,6 +190,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0049-group-anagrams](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -430,4 +433,9 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
