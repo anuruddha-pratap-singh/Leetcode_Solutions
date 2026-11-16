@@ -127,6 +127,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0088-merge-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -258,6 +259,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0155-min-stack](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -430,6 +432,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -437,6 +440,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
