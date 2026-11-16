@@ -433,6 +433,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
