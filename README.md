@@ -441,6 +441,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
